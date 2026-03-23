@@ -1,5 +1,5 @@
 """
-app.py — Week 11: HAI Portfolio Dashboard
+app.py — Week 10: HAI Portfolio Dashboard
 
 Run with:
     pip install streamlit pandas plotly
