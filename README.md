@@ -1,4 +1,4 @@
-# Week 11: HAI Portfolio Dashboard
+# Week 10: HAI Portfolio Dashboard
 
 A governed prototype demonstrating Human-AI Interaction in financial products.
 
